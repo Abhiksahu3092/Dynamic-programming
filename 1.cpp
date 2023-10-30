@@ -16,5 +16,5 @@ int main(){
         prev=current;
     }
 
-    cout<<current<<endl;
+    cout<<prev<<endl;
 }
